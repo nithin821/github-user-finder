@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Searchbar from './Components/Searchbar';
 import Usercard from './Components/User';
